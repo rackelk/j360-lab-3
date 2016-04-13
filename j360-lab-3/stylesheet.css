@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+ 
+	
+p.question {
+  font-family: "Arial", "sans-serif";
+	  font-size:18px;
+  color: #006;
+  margin-bottom:2px;
+}
+
+ul {
+	background: #FFF;
+    padding: 20px;
+	list-style-type: none;
+	color: #366;
+}
+
+
+body {
+   font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+   font-size:14px;
+   color: #C00;
+   background-color:#E7E7E7;
+}
+
+		
